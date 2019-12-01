@@ -1,0 +1,10 @@
+﻿eid,job,age,experience,promotion,salary
+10,sales,34,yes,yes,10000
+11,manager,23,no,no,20000
+12,,23,yes,yes,30000
+13,sales,25,yes,no,5000
+14,accounting,26,no,yes,5000
+15,manager,,no,no,5000
+16,sales,28,yes,yes,20000
+17,,30,no,no,3000
+18,manager,32,yes,yes,
